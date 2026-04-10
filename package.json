@@ -1,0 +1,22 @@
+{
+  "name": "tp03---dai---tandeter-y-zielonka",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/vickytandeter/TP03---DAI---Tandeter-y-Zielonka#readme",
+  "bugs": {
+    "url": "https://github.com/vickytandeter/TP03---DAI---Tandeter-y-Zielonka/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vickytandeter/TP03---DAI---Tandeter-y-Zielonka.git"
+  },
+  "license": "ISC",
+  "author": "Victoria Tandeter y Camila Zielonka",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "EJ01": "node src/EJ01.js"
+  }
+}
